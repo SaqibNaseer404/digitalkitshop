@@ -1,0 +1,210 @@
+{
+ "categories": [
+  {
+   "accent": "#e8734a",
+   "icon": "📚",
+   "id": "kids-learning-packs",
+   "name": "Kids Learning Packs",
+   "tagline": "Printable phonics, math, ABC and Urdu workbooks for ages 3–7 — no prep, no screens, just print and learn.",
+   "seo_description": "Printable phonics, math, ABC & Urdu workbooks for ages 3–7. Downloadable kindergarten learning packs — print at home, no prep needed."
+  },
+  {
+   "accent": "#6a5cff",
+   "icon": "🖍️",
+   "id": "kids-coloring-books",
+   "name": "Kids Coloring Books",
+   "tagline": "Big, bold, printable coloring books with zero gray shading — perfect for little hands and big imaginations.",
+   "seo_description": "Printable coloring books for kids: ocean animals, lions, monsters & robots. Bold easy-to-color pages, instant PDF download."
+  },
+  {
+   "accent": "#0e9f8a",
+   "icon": "✈️",
+   "id": "travel-visa-kits",
+   "name": "Travel & Visa Kits",
+   "tagline": "Step-by-step document kits that take the guesswork out of UK student visas and planning Umrah yourself.",
+   "seo_description": "UK student visa document checklist & DIY Umrah planning kit (2026/27). Step-by-step PDF guides — do it yourself, save thousands."
+  }
+ ],
+ "products": [
+  {
+   "badge": "Best value",
+   "blurb": "The complete early-learning collection: phonics, numbers & counting, full A–Z alphabet tracing, and Urdu letters with first words — one download.",
+   "category": "kids-learning-packs",
+   "id": "bundle4",
+   "image": "assets/img/bundle4.jpg",
+   "meta": "89 pages · Ages 3–7",
+   "name": "My First Learning Bundle (4-Pack)",
+   "price": "$22.12",
+   "price_note": "buy 3, get the 4th at 77% off",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-learning-bundle-4-pack"
+  },
+  {
+   "badge": "",
+   "blurb": "Phonics CVC words, numbers & counting 1–20, and full A–Z alphabet tracing — the three bestselling packs in one bundle.",
+   "category": "kids-learning-packs",
+   "id": "bundle3",
+   "image": "assets/img/bundle3.jpg",
+   "meta": "69 pages · Ages 3–7",
+   "name": "My First Learning Bundle (3-Pack)",
+   "price": "$15.59",
+   "price_note": "buy 2, get the 3rd at 77% off",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-learning-bundle-3-pack"
+  },
+  {
+   "badge": "",
+   "blurb": "The whole alphabet, one friendly letter at a time — giant traceable letters, a picture word for every letter, and an Alphabet Star certificate.",
+   "category": "kids-learning-packs",
+   "id": "abc",
+   "image": "assets/img/abc.jpg",
+   "meta": "29 pages · Ages 3–6",
+   "name": "My First ABC: Alphabet Tracing & Letter Sounds",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-abc-alphabet-tracing"
+  },
+  {
+   "badge": "",
+   "blurb": "Turn sounding-out into play: 16 CVC words in 4 rhyming families with tracing, matching, rhymes, sentences, and an I Can Read certificate.",
+   "category": "kids-learning-packs",
+   "id": "phonics",
+   "image": "assets/img/phonics.jpg",
+   "meta": "20 pages · Ages 4–7",
+   "name": "My First Phonics: CVC Words",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-phonics-cvc-words"
+  },
+  {
+   "badge": "",
+   "blurb": "From tracing first numbers to simple addition and subtraction — numbers 1–20, counting, comparing, and ten frames, all as play.",
+   "category": "kids-learning-packs",
+   "id": "math",
+   "image": "assets/img/math.jpg",
+   "meta": "20 pages · Ages 4–6",
+   "name": "My First Math: Numbers & Counting",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-math-numbers-counting"
+  },
+  {
+   "badge": "",
+   "blurb": "The full 39-letter Urdu alphabet chart plus 16 traceable letters with cute picture words — made for Pakistani families and heritage learners.",
+   "category": "kids-learning-packs",
+   "id": "urdu",
+   "image": "assets/img/urdu.jpg",
+   "meta": "20 pages · Ages 3–6",
+   "name": "My First Urdu: Alphabet & First Words",
+   "price": "$4.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-urdu-alphabet-first-words"
+  },
+  {
+   "badge": "New",
+   "blurb": "The MEGA humanoid robot coloring book — 200 printable pages of cute, friendly robots with big bold outlines and zero gray shading.",
+   "category": "kids-coloring-books",
+   "id": "humanoid",
+   "image": "assets/img/humanoid.jpg",
+   "meta": "200 pages · Ages 4–8",
+   "name": "My First Humanoid Robots: Coloring Book",
+   "price": "$15.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-humanoid-robots-coloring-book"
+  },
+  {
+   "badge": "",
+   "blurb": "200 printable coloring pages of cute, friendly robots — five themed sections of big bold outlines, perfect for little hands.",
+   "category": "kids-coloring-books",
+   "id": "robots",
+   "image": "assets/img/robots.jpg",
+   "meta": "200 pages · Ages 4–8",
+   "name": "My First Robots: Coloring Book",
+   "price": "$15.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-robots-coloring-book"
+  },
+  {
+   "badge": "",
+   "blurb": "Dive in! 50 printable pages of cute ocean animals — smiling whales, turtles, and more — big bold outlines, zero gray shading.",
+   "category": "kids-coloring-books",
+   "id": "ocean",
+   "image": "assets/img/ocean.jpg",
+   "meta": "50 pages · Ages 3–6",
+   "name": "My First Ocean Animals: Coloring Book",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-ocean-animals-coloring-book"
+  },
+  {
+   "badge": "",
+   "blurb": "Hear them roar! 20 printable pages of cute, friendly lions — big bold outlines made for little hands and bright crayons.",
+   "category": "kids-coloring-books",
+   "id": "lions",
+   "image": "assets/img/lions.jpg",
+   "meta": "20 pages · Ages 3–6",
+   "name": "My First Lions: Coloring Book",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-lions-coloring-book"
+  },
+  {
+   "badge": "",
+   "blurb": "Meet the monster crew! 20 printable pages of cute, friendly monsters — big bold outlines, zero gray shading, 100% fun.",
+   "category": "kids-coloring-books",
+   "id": "monsters",
+   "image": "assets/img/monsters.jpg",
+   "meta": "20 pages · Ages 3–6",
+   "name": "My First Monsters: Coloring Book",
+   "price": "$4.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/my-first-monsters-coloring-book"
+  },
+  {
+   "badge": "Flagship",
+   "blurb": "The complete step-by-step system for the UK Student visa: document master list, the 28-day funds rule explained, 30 real interview questions, and the 12 most common refusal reasons — with country notes for 7 nationalities.",
+   "category": "travel-visa-kits",
+   "id": "visa-kit",
+   "image": "assets/img/visa-kit.jpg",
+   "meta": "Guide + checklist + funds calculator + SOP template",
+   "name": "UK Student Visa Document Kit — International Edition (2026/27)",
+   "price": "$24",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/kpuzn"
+  },
+  {
+   "badge": "",
+   "blurb": "Plan Umrah yourself, without an agent: all 4 visa routes compared, a click-level Nusuk walkthrough, the four rites explained, packing pitfalls, and a package-vs-DIY budget calculator.",
+   "category": "travel-visa-kits",
+   "id": "umrah-kit",
+   "image": "assets/img/umrah-kit.jpg",
+   "meta": "Guide + packing checklist + dua card + budget calculator",
+   "name": "DIY Umrah Kit — First-Timer's Edition (2026/27 Season)",
+   "price": "$19",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/oolksf"
+  },
+  {
+   "badge": "",
+   "blurb": "The 10 essential documents every UK student visa applicant needs — one free page so nothing gets missed.",
+   "category": "travel-visa-kits",
+   "id": "visa-freebie",
+   "image": "assets/img/visa-freebie.jpg",
+   "meta": "1-page printable checklist",
+   "name": "UK Student Visa: 10 Essential Documents Checklist (FREE)",
+   "price": "Free",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/zlbqf"
+  },
+  {
+   "badge": "New",
+   "blurb": "Blast off into 100 pages of outer-space fun — cute rockets, friendly astronauts, planets, silly aliens and moon-base adventures in big bold outlines.",
+   "category": "kids-coloring-books",
+   "id": "rockets",
+   "image": "assets/img/rockets.jpg",
+   "meta": "100 pages · Ages 4–8",
+   "name": "My First Rockets: Coloring Book",
+   "price": "$9.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/ehlym"
+  }
+ ]
+}

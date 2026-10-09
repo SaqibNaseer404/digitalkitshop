@@ -27,6 +27,18 @@
  ],
  "products": [
   {
+   "badge": "Save 51%",
+   "blurb": "6 bestselling coloring books in ONE download — ocean animals, lions, monsters, robots, humanoid robots and rockets. 590 pages total.",
+   "category": "kids-coloring-books",
+   "id": "ultimate-coloring-collection",
+   "image": "assets/img/coloring-mega-bundle.jpg",
+   "meta": "590 pages · Ages 4–8",
+   "name": "Ultimate Coloring Collection (6-Book Bundle)",
+   "price": "$29.99",
+   "price_note": "was $60.94",
+   "url": "https://saqibnaseer.gumroad.com/l/xhhzwd"
+  },
+  {
    "badge": "Best value",
    "blurb": "The complete early-learning collection: phonics, numbers & counting, full A–Z alphabet tracing, and Urdu letters with first words — one download.",
    "category": "kids-learning-packs",
@@ -205,6 +217,102 @@
    "price": "$9.99",
    "price_note": "",
    "url": "https://saqibnaseer.gumroad.com/l/ehlym"
+  },
+  {
+   "badge": "New",
+   "blurb": "Stomp into 100 pages of prehistoric fun — T-Rex, long-necked giants, pterosaurs, sea reptiles and baby dinos in big bold outlines.",
+   "category": "kids-coloring-books",
+   "id": "dinosaurs",
+   "image": "assets/img/dinosaurs.jpg",
+   "meta": "100 pages · Ages 4–8",
+   "name": "My First Dinosaurs: Coloring Book",
+   "price": "$9.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/xerpw"
+  },
+  {
+   "badge": "New",
+   "blurb": "Charge up for 200 pages of electric fun — cute EVs, electric trucks, charging stations and futuristic concept cars in big bold outlines.",
+   "category": "kids-coloring-books",
+   "id": "electric-cars",
+   "image": "assets/img/electric-cars.jpg",
+   "meta": "200 pages · Ages 4–8",
+   "name": "My First Electric Cars: Coloring Book",
+   "price": "$15.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/ebuxwg"
+  },
+  {
+   "badge": "New",
+   "blurb": "75 progressive cutting pages that take little hands from first snips to confident cutting — big bold dashed lines with cute characters on every page.",
+   "category": "kids-learning-packs",
+   "id": "scissor-skills",
+   "image": "assets/img/scissor-skills.jpg",
+   "meta": "75 pages · Ages 3–6",
+   "name": "My First Scissor Skills: Cutting Practice Pack",
+   "price": "$7.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/vitgy"
+  },
+  {
+   "badge": "New",
+   "blurb": "50 pages of big dab-able circles built into cute animals, vehicles, fruits, numbers and letters — made for dot markers, daubers, stickers and tiny fingers.",
+   "category": "kids-learning-packs",
+   "id": "dot-markers",
+   "image": "assets/img/dot-markers.jpg",
+   "meta": "50 pages · Ages 2–5",
+   "name": "My First Dot Markers: Activity Pack",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/jmizsm"
+  },
+  {
+   "badge": "New",
+   "blurb": "The complete step-by-step system for the Canadian study permit — 2026 figures, document checklist, funds calculator and letter-of-explanation template.",
+   "category": "travel-visa-kits",
+   "id": "canada-visa",
+   "image": "assets/img/canada-visa.jpg",
+   "meta": "Guide + checklist + funds calculator + letter template",
+   "name": "Canada Study Permit Document Kit — International Edition (2026/27)",
+   "price": "$24",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/fekqhb"
+  },
+  {
+   "badge": "New",
+   "blurb": "Everything for the Schengen tourist visa in one kit — 2026 guide, document checklist, trip budget calculator, cover letter and itinerary templates.",
+   "category": "travel-visa-kits",
+   "id": "schengen-visa",
+   "image": "assets/img/schengen-visa.jpg",
+   "meta": "Guide + checklist + budget calculator + letter templates",
+   "name": "Schengen Tourist Visa Document Kit — International Edition (2026/27)",
+   "price": "$24",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/lkjqjd"
+  },
+  {
+   "badge": "New",
+   "blurb": "The complete step-by-step system for the Australian Student visa (subclass 500) — CoE, Genuine Student requirement, 2026 funds calculator and SOP template.",
+   "category": "travel-visa-kits",
+   "id": "australia-visa",
+   "image": "assets/img/australia-visa.jpg",
+   "meta": "Guide + checklist + funds calculator + SOP template",
+   "name": "Australia Student Visa Document Kit — International Edition (2026/27)",
+   "price": "$24",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/dsbynf"
+  },
+  {
+   "badge": "New",
+   "blurb": "The complete step-by-step system for the German student visa — 2026 blocked-account figures, APS certificate guide, motivation letter template and checklist.",
+   "category": "travel-visa-kits",
+   "id": "germany-visa",
+   "image": "assets/img/germany-visa.jpg",
+   "meta": "Guide + checklist + blocked-account figures + letter template",
+   "name": "Germany Student Visa Document Kit — International Edition (2026/27)",
+   "price": "$24",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/gyfbvo"
   }
  ]
 }

@@ -23,6 +23,14 @@
    "name": "Travel & Visa Kits",
    "tagline": "Step-by-step document kits that take the guesswork out of UK student visas and planning Umrah yourself.",
    "seo_description": "UK student visa document checklist & DIY Umrah planning kit (2026/27). Step-by-step PDF guides — do it yourself, save thousands."
+  },
+  {
+   "id": "baby-new-parents",
+   "name": "Baby & New Parents",
+   "icon": "🍼",
+   "accent": "#e0638f",
+   "tagline": "Printable milestone cards, shower games and memory journals — thoughtful gifts for new and expecting parents.",
+   "seo_description": "Printable baby milestone cards, baby shower games & first-year memory journals. Instant-download new-parent printables and shower gifts."
   }
  ],
  "products": [
@@ -36,7 +44,9 @@
    "name": "Ultimate Coloring Collection (6-Book Bundle)",
    "price": "$29.99",
    "price_note": "was $60.94",
-   "url": "https://saqibnaseer.gumroad.com/l/xhhzwd"
+   "url": "https://saqibnaseer.gumroad.com/l/xhhzwd",
+   "bundle": true,
+   "was_price": "$60.94"
   },
   {
    "badge": "Best value",
@@ -313,6 +323,42 @@
    "price": "$24",
    "price_note": "",
    "url": "https://saqibnaseer.gumroad.com/l/gyfbvo"
+  },
+  {
+   "badge": "New",
+   "blurb": "40 photo-prop milestone cards — months 1–12 plus first smiles, first steps, first tooth and more. Print on cardstock and snap the photo.",
+   "category": "baby-new-parents",
+   "id": "baby-milestone-cards",
+   "image": "assets/img/baby-milestone-cards.jpg",
+   "meta": "40 cards · 5x7in print",
+   "name": "Baby Milestone Cards: 40 Printable Photo Prop Cards",
+   "price": "$6.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/ecpma"
+  },
+  {
+   "badge": "New",
+   "blurb": "12 tried-and-true baby shower games with answer keys — bingo, word scramble, emoji pictionary, Price Is Right and more. Just print and play.",
+   "category": "baby-new-parents",
+   "id": "baby-shower-games",
+   "image": "assets/img/baby-shower-games.jpg",
+   "meta": "12 games + answer keys",
+   "name": "Baby Shower Games Pack: 12 Printable Games",
+   "price": "$9.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/gverp"
+  },
+  {
+   "badge": "New",
+   "blurb": "A printable keepsake journal — 12 monthly milestone pages, firsts, handprint & footprint keepsakes, letters to baby and first-birthday pages.",
+   "category": "baby-new-parents",
+   "id": "baby-first-year-journal",
+   "image": "assets/img/baby-first-year-journal.jpg",
+   "meta": "28 pages · US Letter",
+   "name": "Baby's First Year Memory Journal (Printable)",
+   "price": "$12.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/ixhuei"
   }
  ]
 }

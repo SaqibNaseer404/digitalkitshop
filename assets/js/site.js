@@ -17,4 +17,21 @@ document.addEventListener("DOMContentLoaded", () => {
   // Footer year
   const y = document.getElementById("year");
   if (y) y.textContent = new Date().getFullYear();
+
+  // Homepage category pills: filter the product grid inline (no reload)
+  const pills = document.querySelectorAll(".pill");
+  const grid = document.getElementById("all-grid");
+  if (pills.length && grid) {
+    const cards = grid.querySelectorAll(".prod");
+    pills.forEach(pill => pill.addEventListener("click", () => {
+      pills.forEach(p => { p.classList.remove("active"); p.setAttribute("aria-pressed", "false"); });
+      pill.classList.add("active");
+      pill.setAttribute("aria-pressed", "true");
+      const cat = pill.getAttribute("data-cat");
+      cards.forEach(card => {
+        const show = cat === "all" || card.getAttribute("data-cat") === cat;
+        card.classList.toggle("hide", !show);
+      });
+    }));
+  }
 });

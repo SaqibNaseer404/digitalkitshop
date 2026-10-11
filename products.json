@@ -31,6 +31,14 @@
    "accent": "#e0638f",
    "tagline": "Printable milestone cards, shower games and memory journals — thoughtful gifts for new and expecting parents.",
    "seo_description": "Printable baby milestone cards, baby shower games & first-year memory journals. Instant-download new-parent printables and shower gifts."
+  },
+  {
+   "id": "weddings-bridal",
+   "name": "Weddings & Bridal Showers",
+   "icon": "💍",
+   "accent": "#c9962e",
+   "tagline": "Elegant printable bridal shower games and wedding keepsakes — print at home, fits any bridal theme.",
+   "seo_description": "Printable bridal shower games pack: 12 elegant games with answer keys — bingo, word scramble, emoji pictionary, newlywed quiz. Instant download."
   }
  ],
  "products": [
@@ -359,6 +367,18 @@
    "price": "$12.99",
    "price_note": "",
    "url": "https://saqibnaseer.gumroad.com/l/ixhuei"
+  },
+  {
+   "badge": "New",
+   "blurb": "12 elegant printable bridal shower games — bingo, word scramble, emoji pictionary, newlywed quiz and more — with a host guide and answer keys.",
+   "category": "weddings-bridal",
+   "id": "bridal-shower-games",
+   "image": "assets/img/bridal-shower-games.jpg",
+   "meta": "19 pages · US Letter",
+   "name": "Bridal Shower Games Pack (12 Games)",
+   "price": "$9.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/bmdqb"
   }
  ]
 }

@@ -415,6 +415,91 @@
    "price": "$15.99",
    "price_note": "",
    "url": "https://saqibnaseer.gumroad.com/l/xgnrz"
+  },
+  {
+   "badge": "New",
+   "blurb": "The chillest animal on the internet — 28 big bold capybara pages: lounging, swimming, munching snacks and hanging with friends.",
+   "category": "kids-coloring-books",
+   "id": "capybara-coloring",
+   "image": "assets/img/capybara-coloring.jpg",
+   "meta": "28 pages · Ages 3–7",
+   "name": "My First Capybara: Coloring Book (28 Pages, Ages 3–7)",
+   "price": "$2.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/wscvtg"
+  },
+  {
+   "badge": "New",
+   "blurb": "The internet's favorite salamander — 28 big bold axolotl pages: smiling, swimming, snacking and playing in underwater scenes.",
+   "category": "kids-coloring-books",
+   "id": "axolotl-coloring",
+   "image": "assets/img/axolotl-coloring.jpg",
+   "meta": "28 pages · Ages 3–7",
+   "name": "My First Axolotl: Coloring Book (28 Pages, Ages 3–7)",
+   "price": "$2.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/vlsqm"
+  },
+  {
+   "badge": "New",
+   "blurb": "The dream team — 28 pages of capybaras and axolotls together: sharing snacks, splashing in pools and napping side by side.",
+   "category": "kids-coloring-books",
+   "id": "capybara-axolotl-friends",
+   "image": "assets/img/capybara-axolotl-friends.jpg",
+   "meta": "28 pages · Ages 3–7",
+   "name": "Capybara & Axolotl Friends: Coloring Book (28 Pages, Ages 3–7)",
+   "price": "$2.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/isdjc"
+  },
+  {
+   "badge": "New",
+   "blurb": "All three books in one download — capybara, axolotl, and friends. 84 pages of big bold coloring for ages 3–7. Save versus buying separately.",
+   "category": "kids-coloring-books",
+   "id": "capybara-axolotl-trilogy",
+   "image": "assets/img/capybara-axolotl-trilogy.jpg",
+   "meta": "84 pages · Ages 3–7",
+   "name": "Bold & Easy Trilogy: Capybara & Axolotl Coloring Books (3 Books)",
+   "price": "$8.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/zisygs",
+   "bundle": true
+  },
+  {
+   "badge": "New",
+   "blurb": "Take a trip to Japan without leaving home — coloring, mazes, word searches, real fun facts, Japanese words and a passport stamp page.",
+   "category": "kids-coloring-books",
+   "id": "japan-kids-activity",
+   "image": "assets/img/japan-kids-activity.jpg",
+   "meta": "20 pages · Ages 5–10",
+   "name": "Japan Kids' Travel Activity Pack (20 Pages)",
+   "price": "$4.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/qchbmx"
+  },
+  {
+   "badge": "New",
+   "blurb": "Dubai & UAE fun for kids — Burj Khalifa coloring, desert mazes, word searches, real fun facts and a pack-your-suitcase checklist.",
+   "category": "kids-coloring-books",
+   "id": "dubai-kids-activity",
+   "image": "assets/img/dubai-kids-activity.jpg",
+   "meta": "20 pages · Ages 5–10",
+   "name": "Dubai & UAE Kids' Travel Activity Pack (20 Pages)",
+   "price": "$4.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/upivl"
+  },
+  {
+   "badge": "New",
+   "blurb": "Thailand fun for kids — tuk-tuks, elephants, floating markets, mazes, word searches, true island facts and easy Thai words to learn.",
+   "category": "kids-coloring-books",
+   "id": "thailand-kids-activity",
+   "image": "assets/img/thailand-kids-activity.jpg",
+   "meta": "20 pages · Ages 4–8",
+   "name": "Thailand Kids' Travel Activity Pack (20 Pages)",
+   "price": "$4.99",
+   "price_note": "",
+   "url": "https://saqibnaseer.gumroad.com/l/akyzz"
   }
  ]
 }

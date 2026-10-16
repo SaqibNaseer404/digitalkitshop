@@ -597,6 +597,34 @@
       "price": "$5.99",
       "price_note": "",
       "url": "https://saqibnaseer.gumroad.com/l/qnhbfvv"
+    },
+    {
+      "id": "new-parents-bundle",
+      "name": "The New Parents Bundle (3-Pack)",
+      "price": "$19.99",
+      "was_price": "$29.97",
+      "price_note": "was $29.97",
+      "badge": "Save 33%",
+      "bundle": true,
+      "category": "baby-new-parents",
+      "image": "assets/img/new-parents-bundle.jpg",
+      "url": "https://saqibnaseer.gumroad.com/l/touxrs",
+      "blurb": "Milestone cards + shower games + first-year memory journal in ONE download — everything for baby’s first year.",
+      "meta": "92 pages · Baby’s first year"
+    },
+    {
+      "id": "holiday-kids-bundle",
+      "name": "Holiday Kids Bundle (3-Pack)",
+      "price": "$11.99",
+      "was_price": "$16.97",
+      "price_note": "was $16.97",
+      "badge": "Save 29%",
+      "bundle": true,
+      "category": "kids-learning-packs",
+      "image": "assets/img/holiday-kids-bundle.jpg",
+      "url": "https://saqibnaseer.gumroad.com/l/holiday-kids-bundle",
+      "blurb": "Thanksgiving gratitude + cozy winter coloring + monster feelings calm-down kit — 68 seasonal pages.",
+      "meta": "68 pages · Ages 4–8"
     }
   ]
 }
